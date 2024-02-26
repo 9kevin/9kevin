@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Sebineza
-- 👀 I’m interested in Data science, Machine Learning, and Robotics
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on computer vision projects
+- 👀 I’m interested in Data science, Machine Learning, and Cloud Computing
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on data-related projects
 - 📫 How to reach me kevin.sebineza@gmail.com
 
 <!---
